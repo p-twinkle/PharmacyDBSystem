@@ -1,5 +1,3 @@
-# Pharmacy_DB_System
-
 # CVS Pharmacy Data Infrastructure Project
 
 ## Overview
